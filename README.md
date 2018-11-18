@@ -1,2 +1,2 @@
-# XPApplePay
+# PXApplePay
 内购
